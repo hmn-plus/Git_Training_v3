@@ -1,1 +1,3 @@
+GIT Revert change 1
+
 This is Sample File 2
